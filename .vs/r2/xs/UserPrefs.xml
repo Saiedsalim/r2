@@ -1,16 +1,17 @@
 ﻿<Properties StartupConfiguration="{BE2C4E8C-76D3-CD60-966C-144E186B89B0}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RubyController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NonPlayerCharacter.cs">
     <Files>
-      <File FileName="../Galga/Assets/scripts/PlayerController.cs" Line="72" Column="41" />
+      <File FileName="Assets/Scripts/RubyController.cs" Line="54" Column="14" />
+      <File FileName="../Galga/Assets/scripts/PlayerController.cs" />
       <File FileName="Assets/Scripts/EnemyController.cs" />
-      <File FileName="Assets/Scripts/Projectiles.cs" Line="35" Column="11" />
-      <File FileName="Assets/Scripts/UIHealthBar.cs" Line="7" Column="5" />
-      <File FileName="Assets/Scripts/RubyController.cs" Line="89" Column="1" />
+      <File FileName="Assets/Scripts/Projectiles.cs" />
+      <File FileName="Assets/Scripts/UIHealthBar.cs" />
+      <File FileName="Assets/Scripts/NonPlayerCharacter.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0b9f7733-9dba-4a60-b394-7c9f9faed8d6" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="eab684b1-a346-4046-b242-534f305941a0" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
