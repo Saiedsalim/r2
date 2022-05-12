@@ -4,12 +4,16 @@ using UnityEngine;
 
 public class healthCollectible : MonoBehaviour
 {
+    public AudioClip collectedClip;
+
+
     void start()
     {
+        
 
-    }
+}
     // Start is called before the first frame update
-    void OnTriggerEnter2D (Collider2D other)
+    void OnTriggerEnter2D(Collider2D other)
     {
         RubyController controller = other.GetComponent<RubyController>();
 
@@ -21,9 +25,10 @@ public class healthCollectible : MonoBehaviour
                 controller.ChangeHealth(1);
                 Destroy(gameObject);
             }
+            controller.PlaySound(collectedClip);
         }
           
-    }
+    }    
 
     // Update is called once per frame
     void Update()
