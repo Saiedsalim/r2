@@ -6,12 +6,6 @@ public class healthCollectible : MonoBehaviour
 {
     public AudioClip collectedClip;
 
-
-    void start()
-    {
-        
-
-}
     // Start is called before the first frame update
     void OnTriggerEnter2D(Collider2D other)
     {

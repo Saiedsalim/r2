@@ -1,17 +1,18 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/healthCollectible.cs">
+﻿<Properties StartupConfiguration="{BE2C4E8C-76D3-CD60-966C-144E186B89B0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelTransition.cs">
     <Files>
-      <File FileName="Assets/Scripts/RubyController.cs" Line="40" Column="37" />
-      <File FileName="Assets/Scripts/EnemyController.cs" />
+      <File FileName="Assets/Scripts/RubyController.cs" Line="5" Column="19" />
+      <File FileName="Assets/Scripts/EnemyController.cs" Line="13" Column="22" />
       <File FileName="Assets/Scripts/Projectiles.cs" />
       <File FileName="Assets/Scripts/UIHealthBar.cs" />
       <File FileName="Assets/Scripts/NonPlayerCharacter.cs" />
-      <File FileName="Assets/Scripts/healthCollectible.cs" Line="18" Column="42" />
+      <File FileName="Assets/Scripts/healthCollectible.cs" Line="8" Column="1" />
+      <File FileName="Assets/Scripts/LevelTransition.cs" Line="14" Column="52" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7dd5b930-3532-41c5-9afe-e5f99ab53b99" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="98069697-c24f-4488-b69f-38d2c8feb16e" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

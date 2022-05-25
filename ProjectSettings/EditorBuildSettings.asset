@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/R2.unity
+    guid: 05486688d36f043eebb570fbcab3c9ae
+  - enabled: 1
+    path: Assets/game challenges.unity
+    guid: a6413ce27133a44738393ac7708539bb
   m_configObjects: {}
